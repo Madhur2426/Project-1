@@ -1,2 +1,0 @@
-# Project-1
-This is a console based project in c language.I have created a contactbook in which you can 1.SAVE CONTACT 2. SEE YOUR SAVED CONTACTS 3.SEARCH A CONTACT 4.DELETE A CONTACT 5.TO CHECK FOR UPDATES 6.TO EXIT .....The check for updates option will checkfor updates of the application and if the update is availaible you can update the application and the update will be installed without any internet connection all this is done through coding 
