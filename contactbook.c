@@ -37,7 +37,6 @@ void menu()
     printf("4.DELETE A CONTACT \n");
     printf("5.TO CHECK FOR UPDATES\n");
     printf("6.EXIT\n");
-    printf("ENTER ANY KEY TO EXIT\n");
 }
 void getoption()
 {
